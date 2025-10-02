@@ -1,4 +1,4 @@
-# Local MCP Server for Todo App
+# MCP Server for Todo App
 
 ## Watch the Video 📺
 
@@ -156,4 +156,5 @@ For questions or support, please reach out:
 
 * **Email**: [nikzmishra@gmail.com](mailto:nikzmishra@gmail.com)
 * **YouTube**: [NeuralArc00](https://www.youtube.com/@NeuralArc00/videos)
+
 
