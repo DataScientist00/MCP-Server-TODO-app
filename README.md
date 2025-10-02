@@ -1,6 +1,6 @@
 # Local MCP Server for Todo App
 
-## Watch the Video 🞥
+## Watch the Video 📺
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube\&logoColor=white\&style=for-the-badge)](https://youtu.be/jG_mxYPmqgk)
 
@@ -156,3 +156,4 @@ For questions or support, please reach out:
 
 * **Email**: [nikzmishra@gmail.com](mailto:nikzmishra@gmail.com)
 * **YouTube**: [NeuralArc00](https://www.youtube.com/@NeuralArc00/videos)
+
